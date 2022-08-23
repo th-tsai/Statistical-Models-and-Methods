@@ -12,4 +12,4 @@ All coding will bases on Python with relevant packages.
 
 ## Data
 
-The traning and test data set store in the Data file.
+The training and test data set store in the Data file.
