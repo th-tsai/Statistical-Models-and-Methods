@@ -2,13 +2,7 @@
 
 ## Introducation
 
-In this repository, I would revisit the coursework form module Statistical Models and Methods. 
-
-Previously, the coursework required us to use linear models to tackle the problems.
-
-This time, I will expand the models using generalised linear model, decision tree and random forest.
-
-All coding will bases on Python with relevant packages. This would also be a Python practice because I'm used to code in R.
+In this repository, I would revisit the coursework form module Statistical Models and Methods. Previously, the coursework required us to use linear models to tackle the problems. This time, I will expand the models using generalised linear model, decision tree and random forest. All coding will bases on Python with relevant packages. This would also be a Python practice because I'm used to code in R before.
 
 ## Data
 
