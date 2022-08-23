@@ -33,36 +33,53 @@ It is now of interest to classify the individuals from the TEST set into two gro
 
 An explanation of the variables in each data set is given below, with (F) signifying factor and (C) signifying a continuous/numerical quantity.
 
-Status (F). Status of current account balance. Levels: ”Negative”,”Small”, ”Large”,”None” (no current account or unknown).
+#### Status (F)
+Status of current account balance. Levels: ”Negative”,”Small”, ”Large”,”None” (no current account or unknown).
 
-Duration (C). Duration of requested loan in months.
+#### Duration (C)
+Duration of requested loan in months.
 
-History (F). Status of previous loan history. Levels: ”A” (none, or all paid back in full), ”B” (all at this bank paid in full), ”C” (ongoing loans fully paid so far), ”D” (late payments in past), ”E” (critical delays/defaults in past).
+#### History (F)
+Status of previous loan history. Levels: ”A” (none, or all paid back in full), ”B” (all at this bank paid in full), ”C” (ongoing loans fully paid so far), ”D” (late payments in past), ”E” (critical delays/defaults in past).
 
-Purpose (F). Purpose of loan. Levels: ”NewCar”,”UsedCar”,”Other”,”Furniture”,”Television”, ”Domestic”,”Repairs”,”Education”,”Training”,”Business”.
+#### Purpose (F)
+Purpose of loan. Levels: ”NewCar”,”UsedCar”,”Other”,”Furniture”,”Television”, ”Domestic”,”Repairs”,”Education”,”Training”,”Business”.
 
-Amount (C). Amount requested in Euros.
+#### Amount (C)
+Amount requested in Euros.
 
-Savings (F). Balance of savings account. Levels: ”Low”,”Medium”,”Large”,”VeryLarge”,”Unknown”.
+#### Savings (F)
+Balance of savings account. Levels: ”Low”,”Medium”,”Large”,”VeryLarge”,”Unknown”.
 
-Employment (F). Time in current employment. Levels: ”Unemployed”,”Short”,”Medium”, ”Long”,”VeryLong”.
+#### Employment (F)
+Time in current employment. Levels: ”Unemployed”,”Short”,”Medium”, ”Long”,”VeryLong”.
 
-Disposable (C). The monthly repayment installments as a percentage of annual disposable income.
+#### Disposable (C)
+The monthly repayment installments as a percentage of annual disposable income.
 
-Personal (F). Personal status. Levels: ”M:DivSepMar” (Male, Divorced/Separated/Married), ”F:DivSepMar” (Female, Divorced/Separated/Married) ,”M:Single” (Male, Single), ”F:Single” (Female, Single).
+#### Personal (F)
+Personal status. Levels: ”M:DivSepMar” (Male, Divorced/Separated/Married), ”F:DivSepMar” (Female, Divorced/Separated/Married) ,”M:Single” (Male, Single), ”F:Single” (Female, Single).
 
-OtherParties (F). Other parties with an interest. Levels: ”None”,”Coapp” (another co- applicant), ”Guarantor” (a guarantor).
+#### OtherParties (F)
+Other parties with an interest. Levels: ”None”,”Coapp” (another co- applicant), ”Guarantor” (a guarantor).
 
-Residence (C). Full years in current residence.
+#### Residence (C)
+Full years in current residence.
 
-Property (F). Most valuable significant asset. Levels: ”House”,”Savings”,”Car”,”None”. Age (C). Age of applicant.
+#### Property (F)
+Most valuable significant asset. Levels: ”House”,”Savings”,”Car”,”None”. Age (C). Age of applicant.
 
-Plans (F). Other current loan plans. Levels: ”Bank”,”Stores”,”None”.
+#### Plans (F)
+Other current loan plans. Levels: ”Bank”,”Stores”,”None”.
 
-Housing (F). Ownership status of accommodation. Levels: ”Rent”,”Own”,”RentFree”. Existing (C). Number of existing credits at this bank.
+#### Housing (F)
+Ownership status of accommodation. Levels: ”Rent”,”Own”,”RentFree”. Existing (C). Number of existing credits at this bank.
 
-Job (F). Level of current job. Levels: ”Unemployed”,”Unskilled”,”Skilled”,”Management:Self”. Dependants (C). Number of dependants.
+#### Job (F)
+Level of current job. Levels: ”Unemployed”,”Unskilled”,”Skilled”,”Management:Self”. Dependants (C). Number of dependants.
 
-Telephone (F). Does the applicant have a registered phone in their name? Levels: ”No”,”Yes”. Foreign (F). Is the applicant a foreign worker? Levels: ”Yes”,”No”.
+#### Telephone (F)
+Does the applicant have a registered phone in their name? Levels: ”No”,”Yes”. Foreign (F). Is the applicant a foreign worker? Levels: ”Yes”,”No”.
 
-CreditScore (C). Credit score of the applicant. Higher is better (considered less risky).
+#### CreditScore (C)
+Credit score of the applicant. Higher is better (considered less risky).
