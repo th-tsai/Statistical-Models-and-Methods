@@ -4,7 +4,7 @@
 
 In this repositories, I would revisit the coursework form module Statistical Models and Methods. 
 
-Previously, the coursework required we used a linear model to tackle the problems.
+Previously, the coursework required us to use a linear model to tackle the problems.
 
 However, I will expand the models using generalised linear model, decision tree and random forest.
 
